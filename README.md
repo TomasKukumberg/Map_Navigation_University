@@ -3,3 +3,7 @@ Map navigation around the university using various JS libraries like leaflet rou
 
 ## Preview
 ![](git_img/navigation.gif)
+
+## Install
+1. Clone
+2. Set your access token in /scripts/scripts.js
